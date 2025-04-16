@@ -1,0 +1,45 @@
+h2 {
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
+    font-size: 34px;
+}
+
+.title {
+    background-color: rgb(65, 60, 58);
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 1539px;
+    height: 120px;
+    text-align: center;
+}
+
+.copyright {
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: rgb(65, 60, 58);
+    position: absolute;
+    top: 1000px;
+    width: 1539px;
+    right: 0px;
+    text-align: center;
+}
+
+.contributions {
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    top: 120px;
+}
+
+.FAQ {
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    top: 320px;
+}
+
+.question2 {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
