@@ -1,1 +1,1 @@
-All you need to download this... well... website, i guess repository is to download the zip, and then extract it. Once it finishes extraxting, start the .html file and then you can change the code!
+All you need to download this... well... website, i guess repository is to download the zip, and then extract it. Once it finishes extraxting, start the .html file and then you can change the code! Feel free to use this template to make your own website!!
